@@ -2,6 +2,18 @@
 
 An educational, browser-based network simulation laboratory built with React and Vite. It demonstrates graph algorithms and practical routing concepts using a simulated topology. It does **not** connect to physical routers, run real OSPF, or send real network packets.
 
+
+## 🌐 Live Demo
+
+Try the Network Routing Simulator here:
+
+[**Open NetRoute — Network Routing Simulator**](https://network-routing-simulator-xi.vercel.app/)
+
+## 💻 Source Code
+
+[View this project on GitHub](https://github.com/shaharyan1826-svg/network-routing-simulator)
+
+
 ## Features
 
 - Responsive dark UI designed for desktop and laptop demonstrations, with mobile-friendly navigation.
